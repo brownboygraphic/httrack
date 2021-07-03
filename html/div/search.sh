@@ -52,7 +52,7 @@ while test -n "$keyword"; do
 				fi
 					fi
 		else
-			echo "not found"
+			echo "oops"
 		fi
 
 	fi
